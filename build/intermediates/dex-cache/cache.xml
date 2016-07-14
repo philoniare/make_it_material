@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="8c1ef40c932a6815d4329ef6aa3eff74321e6148">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f53a341f369015d0d4f4b9d7798e429ee8f7b1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.0.0_7e050537f6c0a97ce660604850e24673f7f88b67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_5381192d9fcf6d15dfd0962dd5d27ce99827be4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_f2e9d37bcf774ef322c403cd48ef2b6f6db43df5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.0.0_1c58d0d88a32e230890b1d5a4ec1c306fd27ee50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-24.0.0_15b2067150d8907f97227eb58a6967e08db97aca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v13/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_e1c809cf1b00cc7eded8475820584bb494f5a260/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="f9a3e40f3268852e97c14b90cd8410908893599a">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2fee1a47b6ff3d15b7e8a7a5bf5eb6d827806a3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_380c1a320498b415f8be14f7576ceed86ad78b9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_402ec474a5185bd28bc0440e9bd9985854227ec6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="b69b368e20fd1767e11c75312c7965113d58e032">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f53a341f369015d0d4f4b9d7798e429ee8f7b1c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/libs/volley.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/2/volley_5381192d9fcf6d15dfd0962dd5d27ce99827be4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0_478833031423929b7f60116cc49cd19dfc3981e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_161ac3db3eb1caef4c2ff11e122a08932e8272a4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_bc5e60ef071d9716fddd1673aea32db139c54b50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/palette-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-24.0.0_ed3f0955cb5234a2a190df6927c5ecf57d45749b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_f2e9d37bcf774ef322c403cd48ef2b6f6db43df5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="0bc44a6fab76bf3f247bf833e3440b933ae96117">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2fee1a47b6ff3d15b7e8a7a5bf5eb6d827806a3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.1.2/7052283359001bb108753cb0583a887d3bf94c82/okhttp-3.1.2.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="22.0.1"
+        sha1="7052283359001bb108753cb0583a887d3bf94c82">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.1.2_380c1a320498b415f8be14f7576ceed86ad78b9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_3deb84f2710c8cbd8791f8accbfe4809c250fefe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.0.0_e29541934c5f867d8333e3842ec7b06d8a4f55b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.0.0_14712a5416d35f50bc8d1652c798ea1835c97074/classes.dex" />
+    </item>
+
+</items>

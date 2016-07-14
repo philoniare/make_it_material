@@ -1,0 +1,7 @@
+#Thu Jul 14 09:53:54 EDT 2016
+base.0=/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2fee1a47b6ff3d15b7e8a7a5bf5eb6d827806a3e
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f53a341f369015d0d4f4b9d7798e429ee8f7b1c/classes.dex
+base.1=/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f53a341f369015d0d4f4b9d7798e429ee8f7b1c
+file.0=/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2fee1a47b6ff3d15b7e8a7a5bf5eb6d827806a3e/classes.dex

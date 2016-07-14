@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="8"
+    timestamp="369339802314666"
+    token="5020242654661785198" >
+
+    <task
+        name="javac"
+        duration="0" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="0" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+    <build
+        timestamp="368766828919630"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="369114702991572" >
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/369114702991572/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="369181685891729"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="369254996956180" >
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/369254996956180/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="369339802314666" >
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+    </build>
+
+</instant-run>
