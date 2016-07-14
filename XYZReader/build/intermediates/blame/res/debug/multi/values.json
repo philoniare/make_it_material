@@ -2567,14 +2567,7 @@
                     "endOffset": 43185
                 },
                 "from": {
-                    "file": "/Users/philoniare/Downloads/xyzreader/XYZReader/src/main/res/values/macro_layout.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 81,
-                        "endColumn": 46,
-                        "endOffset": 123
-                    }
+                    "file": "/Users/philoniare/Downloads/xyzreader/XYZReader/src/main/res/values/macro_layout.xml"
                 }
             },
             {
@@ -6482,7 +6475,15 @@
                     "endOffset": 131736
                 },
                 "from": {
-                    "file": "/Users/philoniare/Downloads/xyzreader/XYZReader/src/main/res/values/styles.xml"
+                    "file": "/Users/philoniare/Downloads/xyzreader/XYZReader/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 6,
+                        "endColumn": 12,
+                        "endOffset": 323
+                    }
                 }
             },
             {

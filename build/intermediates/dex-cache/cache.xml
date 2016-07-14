@@ -7,7 +7,7 @@
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
-        sha1="8c1ef40c932a6815d4329ef6aa3eff74321e6148">
+        sha1="98c9df207d427c0fb0dc27dd3c6cdc2aa90d029b">
         <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f53a341f369015d0d4f4b9d7798e429ee8f7b1c/classes.dex" />
     </item>
     <item
@@ -70,7 +70,7 @@
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
-        sha1="f9a3e40f3268852e97c14b90cd8410908893599a">
+        sha1="e6d9bf0e7debbc158d0046d9ab07406effcd7244">
         <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2fee1a47b6ff3d15b7e8a7a5bf5eb6d827806a3e/classes.dex" />
     </item>
     <item
@@ -120,21 +120,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="false"
-        revision="24.0.0"
-        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
-        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_161ac3db3eb1caef4c2ff11e122a08932e8272a4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
         jumboMode="true"
         optimize="false"
         revision="24.0.0"
         sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
         <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0_bc5e60ef071d9716fddd1673aea32db139c54b50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="false"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0_161ac3db3eb1caef4c2ff11e122a08932e8272a4/classes.dex" />
     </item>
     <item
         is-multidex="true"

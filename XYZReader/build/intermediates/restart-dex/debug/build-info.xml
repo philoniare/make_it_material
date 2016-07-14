@@ -4,60 +4,97 @@
     api-level="23"
     density="xxhdpi"
     format="8"
-    timestamp="369339802314666"
-    token="5020242654661785198" >
+    timestamp="375456742464895"
+    token="5020242654661785198"
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2199" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="43" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="32" />
     <task
         name="verifier"
-        duration="0" />
+        duration="32" />
 
     <artifact
-        location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="368766828919630"
+        timestamp="370382989862076"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/outputs/apk/XYZReader-debug.apk"
             type="MAIN" />
     </build>
-    <build timestamp="369114702991572" >
+    <build timestamp="371950601849854" >
         <artifact
-            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/369114702991572/classes.dex"
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/371950601849854/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="372252303629687" >
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/372252303629687/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="372800027609809" >
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/372800027609809/classes.dex"
             type="RELOAD_DEX" />
     </build>
     <build
-        timestamp="369181685891729"
+        timestamp="373687040671892"
         verifier="R_CLASS_CHANGE" >
-        <artifact
-            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
-            type="DEX" />
         <artifact
             location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
             type="DEX" />
         <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex"
+            type="DEX" />
+    </build>
+    <build timestamp="373912857405822" >
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/373912857405822/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="374175525639726" >
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/374175525639726/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build timestamp="374732104099436" >
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/374732104099436/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="374775538742198"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
             location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex"
             type="DEX" />
     </build>
-    <build timestamp="369254996956180" >
-        <artifact
-            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/builds/debug/369254996956180/classes.dex"
-            type="RELOAD_DEX" />
-    </build>
-    <build timestamp="369339802314666" >
+    <build
+        timestamp="375337369165124"
+        verifier="FIELD_ADDED" >
         <artifact
             location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
             type="RESOURCES" />
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="375456742464895"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/philoniare/Downloads/xyzreader/XYZReader/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>
